@@ -1,7 +1,7 @@
 Hi 👋 My name is José Martínez
 ==============================
 
-FullStack Software Developer 💻
+FullStack Software Engineer 💻
 ----------------------------
 
 Always eager to learn new things, my journey has led me to several paths in frontend and backend development with languages like Python, Ruby, PHP and JavaScript, along with DevOps tasks to put my work online. Currently working with MERN stack and modern web technologies, I believe in collaboration and communication to achieve goals in every project that I participate. Give me a Hi! 🚀
